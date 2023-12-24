@@ -2,11 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function Hero({ styles }) {
-  const handleScroll = () => {
-    const videoContainer = document.getElementById("video-container");
-    videoContainer.scrollIntoView({ behavior: "smooth" });
-  };
-
   return (
     <div className={styles.heroDiv}>
       <nav className={styles.headerNav} id="nvbar">
