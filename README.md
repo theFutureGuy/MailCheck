@@ -1,6 +1,6 @@
 # MailCheck
 
-[check it out now](mail-check-3.vercel.app)
+[check it out now](https://mail-check-3.vercel.app)
 
 **Concerned about whether your important emails have been read or not? Fret not, introducing MailCheck!**
 
